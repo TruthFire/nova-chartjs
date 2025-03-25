@@ -14,7 +14,7 @@
     components: {PolarArea},
     props: {
       height: {
-        default: 110,
+        default: 220,
         type: Number
       }
     },

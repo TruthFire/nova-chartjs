@@ -14,7 +14,7 @@ export default {
   components: { Scatter },
   props: {
     height: {
-      default: 120,
+      default: 240,
       type: Number
     }
   },
